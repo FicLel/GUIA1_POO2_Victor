@@ -12,4 +12,5 @@ package com.sv.udb.clases;
  */
 public class Prueba {
     int hola;
+    int queondas;
 }
